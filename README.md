@@ -1,4 +1,38 @@
 # DarkSide
+A dark theme based on [Atom One Dark theme](https://github.com/atom/one-dark-ui)
+
+## Palette
+
+- Background 282C34	
+- Selection	3E4451	
+- Cursor F89406	
+- Plain Text ECF0F1	
+- Keyword	F57D2D	
+- Comment	7F8C8D	
+- String E74C3C	
+- Macro F1C40F	
+- Type 27AE60	
+- Other Type Name 3498DB	
+- URL	D35400	
+- Number 8E44AD	
+- Attribute	1ABC9C
+
+## Xcode
+
+- Preferred font `SF Mono Regular`
+- To change theme manually, go to `Preferences -> Fonts & Colors`
+- To install, run `curl -fsSL https://raw.githubusercontent.com/onmyway133/DarkSide/master/Xcode/install.sh | sh`
+
+## Android Studio
+
+- Based on `Dracular` theme
+- Preferred font `Monaco`
+- To change theme manually, go to `Preferences -> Editor -> Colors & Fonts` 
+- To install, download `https://github.com/onmyway133/DarkSide/AndroidStudio/DarkSide.jar` and import by `File -> Import Settings`
+
+## Visual Studio Code
+
+## Sublime Text
 
 ## Author
 
