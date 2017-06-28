@@ -34,6 +34,9 @@ A dark theme based on [Atom One Dark theme](https://github.com/atom/one-dark-ui)
 
 ## Sublime Text
 
+- Press `Cmd+Shift+P`, type `Install Package`, search for `One Dark`
+- Go to `Preferences -> Color Scheme`
+
 ## Author
 
 Khoa Pham, onmyway133@gmail.com
