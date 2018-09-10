@@ -1,6 +1,9 @@
 # DarkSide
 A dark theme based on [Atom One Dark theme](https://github.com/atom/one-dark-ui)
 
+- Use Atom One Dark instead https://github.com/bojan/xcode-one-dark, https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark
+- Or Dracular https://draculatheme.com/visual-studio-code/
+
 ## Palette
 
 - Background 282C34	
